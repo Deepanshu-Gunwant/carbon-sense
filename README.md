@@ -27,9 +27,6 @@ React.js • Tailwind CSS • Recharts • Framer Motion • Shadcn UI
 **Backend:**  
 Node.js • Express.js • MongoDB (Mongoose) • JWT Authentication • REST APIs
 
-**Other Tools:**  
-Docker • Vercel • GitHub Actions (CI/CD)
-
 ---
 
 ## 📸 Screenshots
