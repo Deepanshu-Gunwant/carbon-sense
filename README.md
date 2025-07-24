@@ -51,9 +51,19 @@ Docker • Vercel • GitHub Actions (CI/CD)
 
 ---
 
-## ⚡ Installation & Setup
+   ## ⚡ Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Deepanshu-Gunwant/carbon-sense.git
-   cd carbon-sense
+   1. **Install dependencies:**
+      ```bash
+      npm install
+      ```
+
+   2. **Run the development server:**
+      ```bash
+      npm run dev
+      ```
+
+   3. **Build for production:**
+      ```bash
+      npm run build
+      ```
