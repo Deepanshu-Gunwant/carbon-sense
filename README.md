@@ -67,3 +67,20 @@ Docker • Vercel • GitHub Actions (CI/CD)
       ```bash
       npm run build
       ```
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to **fork this repo**, create a new branch, and submit a pull request.
+
+---
+
+## ✨ Author
+**Deepanshu Gunwant**  
+[GitHub](https://github.com/Deepanshu-Gunwant) | [LinkedIn](https://linkedin.com/in/deepanshu-gunwant)
+
+---
+
+## ❤️ Made With Love
+This project is made with ❤️ by **Deepanshu Gunwant**.
+
